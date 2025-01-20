@@ -1,0 +1,10 @@
+Date ,Time of Day ,Temperature ,Cloud Coverage,Wind,Any Precipitation 
+2025-01-16,Morning,-2c,Overcast,Light,Light
+2025-01-16,Afternoon,3c,Clear,Light,Light
+2025-01-16,Night,-3c,Clear,Light,Light
+2025-01-17,Morning,-4c,Clear,Light,None
+2025-01-17,Afternoon,3c,Clear,Light,None
+2025-01-17,Night,-4c,Clear,Light,None
+2025-01-18,Morning,-2c,Clear,None,None
+2025-01-18,Afternoon,8c,Clear,None,None
+2025-01-18,Night,3c,Clear,None,None
